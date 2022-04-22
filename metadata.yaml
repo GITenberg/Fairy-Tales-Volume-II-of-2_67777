@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '3033'
     url: http://www.gutenberg.org/2009/agents/3033
     wikipedia: https://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 67777-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Lansing, Marion Florence
     gutenberg_agent_id: '54409'
     url: http://www.gutenberg.org/2009/agents/54409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67777#Fairy-Tales-Volume-II-of-2
 gutenberg_issued: '2022-03-24'
 identifiers:
   gutenberg: '67777'
