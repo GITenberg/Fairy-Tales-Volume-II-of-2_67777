@@ -1,0 +1,35 @@
+_repo: Fairy-Tales-Volume-II-of-2_67777
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Copeland, Charles
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '3033'
+    url: http://www.gutenberg.org/2009/agents/3033
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+creator:
+  author:
+    agent_name: Lansing, Marion Florence
+    gutenberg_agent_id: '54409'
+    url: http://www.gutenberg.org/2009/agents/54409
+description: ''
+gutenberg_issued: '2022-03-24'
+identifiers:
+  gutenberg: '67777'
+language: en
+pgterms:marc904: https://archive.org/details/fairytales01lans/page/n5/mode/2up
+pgterms:marc905: 20210116121348lansing
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by the Library of Congress)
+publication_note: United States :Ginn and Company,1907,copyright 1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fairy Tales, Volume II (of 2)
+url: http://www.gutenberg.org/ebooks/67777
